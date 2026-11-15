@@ -1,0 +1,14 @@
+﻿{
+  "name": "auto-model-router",
+  "owner": {
+    "name": "BalthasarKnapp"
+  },
+  "plugins": [
+    {
+      "name": "auto-model-router",
+      "source": "./",
+      "description": "Automatische Modellwahl und Modellwechsel während der Arbeit (Haiku / Sonnet / Opus).",
+      "version": "1.0.0"
+    }
+  ]
+}

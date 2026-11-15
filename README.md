@@ -23,7 +23,7 @@ wenn eine Phase leichter oder schwerer wird.
 ## Installation
 
 ```
-/plugin marketplace add <GITHUB-USER>/<REPO>
+/plugin marketplace add BalthasarKnapp/AutoClaudeMode
 /plugin install auto-model-router@auto-model-router
 ```
 

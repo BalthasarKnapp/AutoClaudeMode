@@ -1,0 +1,9 @@
+﻿{
+  "name": "auto-model-router",
+  "version": "1.0.0",
+  "description": "Wählt automatisch das passende Claude-Modell (Haiku, Sonnet, Opus) für jede Aufgabe und wechselt während der Arbeit, wenn sich der Schwierigkeitsgrad ändert.",
+  "author": {
+    "name": "BalthasarKnapp"
+  },
+  "keywords": ["model", "routing", "haiku", "sonnet", "opus", "cost", "automation"]
+}
